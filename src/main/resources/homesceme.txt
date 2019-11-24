@@ -1,0 +1,9 @@
+create table home 
+(
+id INT NOT NULL AUTO_INCREMENT,
+desc1 varchar(4000),
+desc2 varchar(4000),
+desc3 varchar(4000),
+PRIMARY KEY (id)
+)
+
